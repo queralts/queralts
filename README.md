@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Queralt Salvadó
+# Hi, I'm Queralt Salvadó
 
 I'm an AI student interested in **deep learning**, **machine learning**, and **natural language processing**.  
 Currently, I'm working on a **license plate recognition** project as part of my university coursework.
