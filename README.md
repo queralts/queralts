@@ -15,8 +15,8 @@ I enjoy exploring how data and models can be used to solve real-world problems a
 ---
 
 ### Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Queralt%20Salvado-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/queralt-salvado/)  
-[![Email](https://img.shields.io/badge/Email-quersalv%40gmail.com-red?style=flat&logo=gmail)](mailto:quersalv@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/queralt-salvado/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quersalv@gmail.com)
 
 
 
