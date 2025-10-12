@@ -17,7 +17,6 @@ I enjoy exploring how data and models can be used to solve real-world problems, 
 
 ### Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/queralt-salvado/) 
-- 🧑‍💻 [GitHub](https://github.com/queralts)  
 - ✉️ [Email](mailto:quersalv@gmail.com)
 
 ---
