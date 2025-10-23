@@ -1,24 +1,33 @@
-# Third-Year AI Student at UAB (Autonomous University of Barcelona)
+# Hi! I'm Queralt 👋
 
-I'm interested in **Deep Learning**, **Machine Learning**, and **Natural Language Processing**.  
-Currently, I'm working on a **License Plate Recognition** project as part of my university coursework.
-
-I enjoy exploring how data and models can be used to solve real-world problems and am eager to learn new tools and techniques.
+🎓 I'm a third-year **Artificial Intelligence student** at **Universitat Autònoma de Barcelona (UAB)**.  
+💡 Always eager to learn and improve through new projects and challenges!
 
 ---
 
-### Skills & Tools
+### 🚀 What I'm Currently Working On 
+*Some of my university coursework...*
+
+- Building a **License Plate Recognition** system
+- Exploring **Autoencoder-based approaches in medical imaging** for the detection of *Helicobacter pylori*
+
+---
+
+### 🛠️ Skills & Tools 
+
 - **Languages:** Python, C  
-- **Libraries & Frameworks:** PyTorch, Hugging Face, NumPy, Pandas  
-- **Areas of Interest:** Deep Learning, NLP, Computer Vision  
+- **Libraries & Frameworks:** PyTorch, NumPy, Pandas, Scikit-learn  
 
 ---
 
-### Connect With Me
+### 🧠 Areas of Interest 
+Deep Learning • NLP • Computer Vision
+
+---
+
+### 💼 Connect With Me 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/queralt-salvado/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:quersalv@gmail.com)
-
-
 
 ---
