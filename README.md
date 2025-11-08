@@ -1,7 +1,7 @@
-# Hi! I'm Queralt 👋
+# Hi! I'm Queralt 
 
-🎓 I'm a third-year **Artificial Intelligence student** at **Universitat Autònoma de Barcelona (UAB)**.  
-💡 Always eager to learn and improve through new projects and challenges!
+I'm a third-year **Artificial Intelligence student** at **Universitat Autònoma de Barcelona (UAB)**.  
+Always eager to learn and improve through new projects and challenges!
 
 ---
 
