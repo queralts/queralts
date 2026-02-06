@@ -5,8 +5,7 @@ Always eager to learn and improve through new projects and challenges!
 
 ---
 
-### 🚀 What I'm Currently Working On 
-*Some of my university coursework, focused on:*
+### Some of my university coursework, focused on: 
 
 - **Fine-tuning strategies for pretrained CLIP models**, analysing the impact of adapting image and text encoders on downstream classification and retrieval tasks  
 - **Autoencoder-based approaches in medical imaging** for the detection of *Helicobacter pylori*
