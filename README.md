@@ -2,8 +2,6 @@
 
 I'm a third-year **Artificial Intelligence student** at **Universitat Autònoma de Barcelona (UAB)**.  
 
-I got into AI because recent advances in the field always caught my attention, and I was genuinely curious about how they were built. Since then I've explored several areas including Machine Learning, Natural Language Processing and Computer Vision. I'm currently still learning about the field and figuring out where I want to specialize.
-
 ---
 
 ### What I've been working on recently
@@ -18,12 +16,6 @@ I got into AI because recent advances in the field always caught my attention, a
 
 - **Languages:** Python, C  
 - **Libraries & Frameworks:** PyTorch, NumPy, Pandas, Scikit-learn  
-
----
-
-### What I'm drawn to
-
-As mentioned, I am still learning and exploring different areas of the field, but I am especially drawn to the huge range of solutions provided by Deep Learning methods. It is a field I would like to explore further throughout my career.
 
 ---
 
