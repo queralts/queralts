@@ -1,6 +1,6 @@
 # Hi! I'm Queralt 
 
-I'm a third-year **Artificial Intelligence student** at the **Universitat Autònoma de Barcelona (UAB)** and a **Research Intern** at the **Computer Vision Center (CVC)**.
+I'm a third-year **Artificial Intelligence student** at the **Autonomous University of Barcelona (UAB)** and a **Research Intern** at the **Computer Vision Center (CVC)**.
 
 Recently, I've been working on autonomous driving projects, focusing on data generation and the training and evaluation of end-to-end autonomous driving models.
 
