@@ -1,21 +1,14 @@
 # Hi! I'm Queralt 
 
-I'm a third-year **Artificial Intelligence student** at **Universitat Autònoma de Barcelona (UAB)**.  
+I'm a third-year **Artificial Intelligence student** at the **Universitat Autònoma de Barcelona (UAB)** and a **Research Intern** at the **Computer Vision Center (CVC)**.
 
----
+Recently, I've been working on autonomous driving projects, focusing on data generation and the training and evaluation of end-to-end driving models.
 
-### What I've been working on recently
+Along the way, I've been using tools like **PyTorch** and **Python**, as well as domain-specific systems such as the **CARLA simulator** and benchmarks like **Bench2Drive**.
 
-- **Behaviour Trees for Autonomous Agents**, implementing AI behaviours (navigation, obstacle avoidance, resource collection, fleeing) using behaviour trees in a simulated environment
-- **Fine-tuning strategies for pretrained CLIP models**, exploring how adapting image and text encoders affects classification and retrieval downstream 
-- **EuroWeather**, an end-to-end weather forecasting app using ML to predict atmospheric conditions for a group of 41 european cities
+I'm especially interested in computer vision and autonomous driving, and I'm currently exploring these areas through research at CVC.
 
----
-
-### What I usually work with
-
-- **Languages:** Python, C  
-- **Libraries & Frameworks:** PyTorch, NumPy, Pandas, Scikit-learn  
+In the future, I'd like to keep learning and gaining experience in both autonomous systems and computer vision more broadly.
 
 ---
 
