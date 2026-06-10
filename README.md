@@ -6,9 +6,7 @@ Recently, I've been working on autonomous driving projects, focusing on data gen
 
 Along the way, I've been using tools like **PyTorch** and **Python**, as well as domain-specific systems such as the **CARLA simulator** and benchmarks like **Bench2Drive**.
 
-I'm especially interested in computer vision and autonomous driving, and I'm currently exploring these areas through research at CVC.
-
-In the future, I'd like to keep learning and gaining experience in both autonomous systems and computer vision more broadly.
+I'm especially interested in computer vision and autonomous driving, and I'm currently exploring these areas through research at CVC. In the future, I'd like to keep learning and gaining experience in both of them more broadly.
 
 ---
 
