@@ -1,8 +1,8 @@
 # Hi! I'm Queralt 
 
-I'm a third-year **Artificial Intelligence student** at the **Autonomous University of Barcelona (UAB)** and a **Research Intern** at the **Computer Vision Center (CVC)**.
+I'm a final-year **Artificial Intelligence student** at the **Autonomous University of Barcelona (UAB)** and a **Research Intern** at the **Computer Vision Center (CVC)**.
 
-Recently, I've been working on autonomous driving projects, focusing on data generation and the training and evaluation of end-to-end autonomous driving models.
+Recently, I've been working on autonomous driving projects, focusing on end-to-end autonomous driving architectures for cross-dataset generalization.
 
 Along the way, I've been using tools like **PyTorch** and **Python**, as well as domain-specific systems such as the **CARLA simulator** and benchmarks like **Bench2Drive**.
 
